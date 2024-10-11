@@ -1,4 +1,4 @@
-# Practices-Operating-Sistems-2
+# Practices-Operating-Systems-2
 Some projects that I´ve made with my mate Cristina ( crmanso@ucm.es ), during the subject "Ampliación de Sistemas Operativos"
 
 Pr1: It´s the source code of a library. This library contains functións to measure the time. Useful for measuring the execution time. It´s also contains a example code that multiply two random matrices.
